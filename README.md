@@ -24,7 +24,7 @@ A **responsive and animated survey form** with a sleek gray theme. Built using *
 
 ## ⚡ Live Demo
 
-Check the live project here: [Live Preview](https://username.github.io/survey-form/)
+Check the live project here: [Live Preview] (https://vashitva1356.github.io/-survey-form-/)
 
 ---
 
@@ -32,4 +32,4 @@ Check the live project here: [Live Preview](https://username.github.io/survey-fo
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/username/survey-form.git
+git clone https://github.com/Vashitva1356/survey-form.git
